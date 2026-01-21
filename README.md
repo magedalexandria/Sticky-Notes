@@ -1,8 +1,8 @@
 # Sticky-Notes
-<h1>delete data by sending email to DPO@unity3d.com </h1>
+
 
 <h1>
-    To delete your information stored from [Your app name], you will have to send an email request to 
+    To delete your information stored from [Sticky Notes], you will have to send an email request to 
       <a href="mailto:DPO@unity3d.com
               ?subject=Request%20to%20Delete%20Collected%20Personal%20Information
               &amp;body=Hello%20Unity%20Team,%0D%0A%0D%0A
